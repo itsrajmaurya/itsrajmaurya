@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**itsrajmaurya/itsrajmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Raj Maurya
 
-Here are some ideas to get you started:
+### Full Stack Software Developer | Python Developer | Flutter App Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I build web applications, Android apps, and custom software solutions.
+
+- 🔭 Working on full-stack software and automation projects
+- 🌱 Exploring new technologies and AI-assisted development
+- 💼 Experienced in PHP, Laravel, Python, Flutter and MySQL
+- 🏛️ Developed management systems for a High Court Bar Association
+- ⚡ Interested in automation, APIs and scalable applications
+- 📍 Based in Prayagraj, India
+
+## 🛠️ Tech Stack
+
+**Languages:** PHP, Python, JavaScript, HTML, CSS, Dart
+
+**Frameworks:** Laravel, Flutter, Bootstrap, CakePHP, jQuery
+
+**Database:** MySQL
+
+**Other Skills:** REST APIs, Payment Gateway Integration,
+WordPress, WooCommerce, Automation
+
+## 🚀 Featured Projects
+
+- **Bar Association Management System** — Membership,
+  accounting, payments and welfare management.
+- **Advocate Self-Service Portal** — Member profiles,
+  payment reports and digital records.
+- **Photo ID / Affidavit Centre Software** — Cash counter,
+  verification and payment management.
+- **Bulk ID Card Generator** — Python-based automation.
+- **My Credit App** — Flutter customer credit management.
+- **Vaccination Reminder System** — WhatsApp, SMS and
+  scheduled reminders.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/itsrajmaurya)
+- Email: rajmauryamail@gmail.com
+
+---
+
+⭐ Building useful software, one project at a time.
