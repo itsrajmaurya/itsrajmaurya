@@ -37,15 +37,6 @@ WordPress, WooCommerce, Automation
   scheduled reminders.
 
 
-## 📊 GitHub Activity
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrajmaurya&theme=github_dark)
-
-## 💻 Most Used Languages
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsrajmaurya&theme=github_dark)
-
-
 ## 📫 Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/itsrajmaurya)
