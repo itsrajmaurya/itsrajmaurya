@@ -36,11 +36,15 @@ WordPress, WooCommerce, Automation
 - **Vaccination Reminder System** — WhatsApp, SMS and
   scheduled reminders.
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsrajmaurya&show_icons=true)
+## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrajmaurya&layout=compact)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrajmaurya&theme=github_dark)
+
+## 💻 Most Used Languages
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsrajmaurya&theme=github_dark)
+
 
 ## 📫 Connect With Me
 
